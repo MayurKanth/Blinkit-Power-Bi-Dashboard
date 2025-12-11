@@ -32,7 +32,7 @@ __Types of charts used :-__
 __Insights and Conclusion__
 1. Total sales are around $1.20Million.
 2. Avg sale is $141.
-3. Total number of items sold is 8253.
+3. Total number of items sold is 8523.
 4. Average rating is 3.9.
 
 Lower fat content items had greater sales than Regular. It shows people are health conscious.
