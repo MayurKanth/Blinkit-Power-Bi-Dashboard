@@ -39,8 +39,8 @@ Lower fat content items had greater sales than Regular. It shows people are heal
 Tier-3 location had the highest sales. 
 
 
+<img width="1891" height="1057" alt="image" src="https://github.com/user-attachments/assets/db2c29b7-a51b-4654-a7f1-7683fb691f1f" />
 
-<img width="1904" height="1078" alt="image" src="https://github.com/user-attachments/assets/b8e12723-1e66-4e3e-a34e-e9d2065e2f88" />
 
 
 
