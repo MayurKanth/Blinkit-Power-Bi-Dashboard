@@ -40,7 +40,8 @@ Tier-3 location had the highest sales.
 
 
 
-<img width="2107" height="1197" alt="image" src="https://github.com/user-attachments/assets/409121cf-fad7-4b29-82e2-8836e6adb1f5" />
+<img width="1904" height="1078" alt="image" src="https://github.com/user-attachments/assets/b8e12723-1e66-4e3e-a34e-e9d2065e2f88" />
+
 
 
 
